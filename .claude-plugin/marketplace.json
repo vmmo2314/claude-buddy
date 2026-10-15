@@ -1,0 +1,22 @@
+{
+  "name": "claude-buddy",
+  "description": "claude-familiar with saved looks, a lineup that shows them, and a skill to design new pets",
+  "owner": {
+    "name": "vmmo2314",
+    "url": "https://github.com/vmmo2314"
+  },
+  "plugins": [
+    {
+      "name": "familiar",
+      "source": "./",
+      "description": "A pixel-art companion above the prompt that reacts to your session, levels up, and can be redrawn by hand. Fork of lucenity0/claude-familiar.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": ["claude-code", "claude-code-plugin", "companion", "pixel-art", "terminal-pet", "buddy", "function-hooks"],
+      "author": {
+        "name": "Nafees S",
+        "url": "https://github.com/lucenity0"
+      }
+    }
+  ]
+}

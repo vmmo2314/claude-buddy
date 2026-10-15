@@ -1,0 +1,44 @@
+== Clawd con chullo ==
+.......Y........
+....RRRRRRRR....
+...RYBWYYWBYR...
+..RRRRRRRRRRRR..
+..RCeCCCCCCeCR..
+..RCeCCCCCCeCR..
+CCYCCCCCCCCCCYCC
+..YCCCCCCCCCCY..
+..CCCCCCCCCCCC..
+...C.C....C.C...
+...C.C....C.C...
+................
+/familiar import {"palette":{"C":"#d77757","e":"#1f1f1f","R":"#b0122a","W":"#ffffff","Y":"#f2b705","B":"#1f4e9c"},"rows":[".......Y........","....RRRRRRRR....","...RYBWYYWBYR...","..RRRRRRRRRRRR..","..RCeCCCCCCeCR..","..RCeCCCCCCeCR..","CCYCCCCCCCCCCYCC","..YCCCCCCCCCCY..","..CCCCCCCCCCCC..","...C.C....C.C...","...C.C....C.C...","................"]}
+
+== Clawd en llama ==
+...Y.......L.L..
+..RRRR.....LLLL.
+.RYBBYR....LkLLL
+.CeCCeC.....LL..
+CCCCCCCC....LL..
+.CCCCCC.....LL..
+.RYBBYRLLLLLLL..
+LLLLLLLLLLLLLL..
+.LLLLLLLLLLLLL..
+.L.L.......L.L..
+.L.L.......L.L..
+.D.D.......D.D..
+/familiar import {"palette":{"C":"#d77757","e":"#1f1f1f","R":"#b0122a","Y":"#f2b705","B":"#1f4e9c","L":"#f1e4c8","k":"#3a2a1a","D":"#5a4632"},"rows":["...Y.......L.L..","..RRRR.....LLLL.",".RYBBYR....LkLLL",".CeCCeC.....LL..","CCCCCCCC....LL..",".CCCCCC.....LL..",".RYBBYRLLLLLLL..","LLLLLLLLLLLLLL..",".LLLLLLLLLLLLL..",".L.L.......L.L..",".L.L.......L.L..",".D.D.......D.D.."]}
+
+== Cuy con poncho ==
+...Ck......kC...
+..CCCCCCCCCCCC..
+.CCCCCCCCCCCCCC.
+.CCeCCCCCCCCeCC.
+.CCCCCCkkCCCCCC.
+WCCCCCCCCCCCCCCW
+..PPPPPPPPPPPP..
+CPYYYYYYYYYYYYPC
+PBPBPBPBPBPBPBPB
+PPPPPPPPPPPPPPPP
+Y.Y.Y.Y.Y.Y.Y.Y.
+...CC......CC...
+/familiar import {"palette":{"C":"#d77757","e":"#1f1f1f","k":"#f2a6a0","W":"#f5f5f5","P":"#b0122a","Y":"#f2b705","B":"#1f4e9c"},"rows":["...Ck......kC...","..CCCCCCCCCCCC..",".CCCCCCCCCCCCCC.",".CCeCCCCCCCCeCC.",".CCCCCCkkCCCCCC.","WCCCCCCCCCCCCCCW","..PPPPPPPPPPPP..","CPYYYYYYYYYYYYPC","PBPBPBPBPBPBPBPB","PPPPPPPPPPPPPPPP","Y.Y.Y.Y.Y.Y.Y.Y.","...CC......CC..."]}
